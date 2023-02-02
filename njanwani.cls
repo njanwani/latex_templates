@@ -109,7 +109,7 @@
 \AtBeginDocument{
 \thispagestyle{empty}
 \begin{center}\framebox{\vbox{ \vspace{2mm}
-\hbox to 6.5in {\textbf{CS~21~~~Decidability and Tractability}\hfill \textbf{\today}} \vspace{4mm}
+\hbox to 6.5in {\textbf{CLASS}\hfill \textbf{\today}} \vspace{4mm}
 \hbox to 6.5in {\Large \hfill \settitle  \hfill} \vspace{2mm}
 \hbox to 6.5in {\textbf{Name} \codename \hfill \textbf{Late Submission: } \latesub} \vspace{2mm}}
 }\end{center} \vspace*{1mm}
@@ -119,5 +119,6 @@
 \newminted{XML}{frame=single,framerule=1pt}
 \newtheorem{theorem}{Theorem}
 \newtheorem{lemma}{Lemma}
+\newtheorem{proposition}{Proposition}
 
 }
