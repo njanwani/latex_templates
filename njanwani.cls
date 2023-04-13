@@ -104,12 +104,13 @@
 \newcommand{\ZZ}{\mathbb{Z}} % typing \ZZ prints the Blackboard Z used for Integers
 % construct your own commands here
 \newcommand{\GCD}{\textrm{GCD}}
+\newcommmand{\classname}{CLASS NAME}
 % commands for header, don't adjust
 
 \AtBeginDocument{
 \thispagestyle{empty}
 \begin{center}\framebox{\vbox{ \vspace{2mm}
-\hbox to 6.5in {\textbf{CS~21~~~Decidability and Tractability}\hfill \textbf{\today}} \vspace{4mm}
+\hbox to 6.5in {\textbf{\classname}\hfill \textbf{\today}} \vspace{4mm}
 \hbox to 6.5in {\Large \hfill \settitle  \hfill} \vspace{2mm}
 \hbox to 6.5in {\textbf{Name} \codename \hfill \textbf{Late Submission: } \latesub} \vspace{2mm}}
 }\end{center} \vspace*{1mm}
