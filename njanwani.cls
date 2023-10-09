@@ -96,7 +96,7 @@
 % add your own packages here
 % commands for header, fill in the appropriate values
 \newcommand{\codename} {Neil Janwani} % type name here
-\newcommand{\settitle} {Problem Set 4} %type set title here (ex. Problem Set 3, Midterm)
+\newcommand{\settitle} {TITLE} %type set title here (ex. Problem Set 3, Midterm)
 \newcommand{\latesub} {No} % type yes/no indicating late submission
 % a few helpful commands 
 \newcommand{\RR}{\mathbb{R}} % typing \RR prints the Blackboard R used for Real Numbers
@@ -104,7 +104,7 @@
 \newcommand{\ZZ}{\mathbb{Z}} % typing \ZZ prints the Blackboard Z used for Integers
 % construct your own commands here
 \newcommand{\GCD}{\textrm{GCD}}
-\newcommmand{\classname}{CLASS NAME}
+\newcommand{\classname}{CLASS NAME}
 % commands for header, don't adjust
 
 \AtBeginDocument{
